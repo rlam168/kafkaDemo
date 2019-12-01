@@ -1,6 +1,6 @@
 # kafkaDemo
 
-// Startup ZooKeeper
+## Startup ZooKeeper
 bin/zookeeper-server-start.sh config/zookeeper.properties
 
 // Startup Kafka
