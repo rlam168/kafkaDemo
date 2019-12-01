@@ -123,9 +123,7 @@ public class ConsumerDemoWithThread
 
                 // tell our main code we're done with the consumer
                 latch.countDown();
-
             }
-
         }
 
         public void shutdown()
